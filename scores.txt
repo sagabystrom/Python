@@ -1,0 +1,9 @@
+saga	43.0	easy
+saga	0.0	easy
+saga	0.0	medium
+saga	35.78	hard
+Saga	0.0	easy
+saga	84.0	easy
+Saga	100.0	medium
+bob	64.79	hard
+Bob	68.0	easy
